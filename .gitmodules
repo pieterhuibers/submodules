@@ -1,0 +1,9 @@
+[submodule "ultisnips"]
+	path = ultisnips
+	url = https://github.com/SirVer/ultisnips
+[submodule "UltiSnips"]
+	path = UltiSnips
+	url = https://github.com/vim-scripts/UltiSnips
+[submodule "snippets"]
+	path = snippets
+	url = https://github.com/vim-scripts/UltiSnips
